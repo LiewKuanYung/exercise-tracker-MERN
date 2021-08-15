@@ -2,8 +2,8 @@
 
 A simple node.js web application that can records your exercise routine. Pretty lame to be honest, but this project aimed to learn MERN, a lightweight but powerful web framework.
 
-![Demo-01](Demo-Pictures\Demo-01.png)
-![Demo-02](Demo-Pictures\Demo-02.png)
+![Demo-01](Demo-Pictures/Demo-01.png)
+![Demo-02](Demo-Pictures/Demo-02.png)
 
 ## Run this project
 

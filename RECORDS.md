@@ -3,8 +3,8 @@ This project is a follow along project from [freeCodeCamp](https://www.youtube.c
 
 ## Frontend
 1. Basically nothing much, most concepts is the same
-2. A dynamic routing library used, called (react-router-dom)[https://reactrouter.com/core/guides/philosophy]. It is diff from static routing, because dynamic routing takes place as your app is rendering and static routing can't or hard do that.
-3.
+2. A dynamic routing library used, called [react-router-dom](https://reactrouter.com/core/guides/philosophy). It is diff from static routing, because dynamic routing takes place as your app is rendering and static routing can't or hard do that.
+3. Connect to server using axios
 
 ## Backend
 1. Init backend folder
@@ -23,4 +23,3 @@ powershell> npm install -g nodemon
 2. Run server using `nodemon server`
 - An issue about connecting to mongoose, invalid password or bad auth. The solution can be found [here](https://docs.atlas.mongodb.com/troubleshoot-connection/#special-characters-in-connection-string-password)
 
-3.

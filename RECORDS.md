@@ -1,4 +1,5 @@
 # Important Records
+This project is a follow along project from [freeCodeCamp](https://www.youtube.com/watch?v=7CqJlxBYj-M)
 
 ## Frontend
 1. Basically nothing much, most concepts is the same
